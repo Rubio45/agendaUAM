@@ -1,0 +1,4 @@
+0,Clases de matematica,clase hoadsklwq,c-201,10/10/24,1243,1290
+1,hola mundo,hello holsadsa,c-203,10/12/2024,1930,2000
+2,Jugar basquet,jugar,Jaguar,11/8/2013,1023,1040
+3,Programar,Domino,C-201,10/23/2012,1920,2000
